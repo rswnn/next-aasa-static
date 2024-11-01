@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dots.mobile",
+      "sha256_cert_fingerprints": [
+        "C3:9D:0E:9C:85:D3:0D:99:72:86:3E:7C:5C:2F:5F:19:1D:3D:F7:20:25:A0:55:AE:47:E8:4A:3E:6F:9B:6C:84"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dots",
+      "sha256_cert_fingerprints": [
+        "C3:9D:0E:9C:85:D3:0D:99:72:86:3E:7C:5C:2F:5F:19:1D:3D:F7:20:25:A0:55:AE:47:E8:4A:3E:6F:9B:6C:84"
+      ]
+    }
+  }
+]
